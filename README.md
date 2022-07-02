@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lukedev820.
-- 👀 I’m interested in: learning how to program for fun and to assist me in the future.
+- 👀 I’m interested in: Learning how to program for fun and to assist me in the future.
 - 🌱 I’m currently learning: Python.
 - 📫 How to reach me: Dont.
 
