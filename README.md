@@ -2,7 +2,7 @@ Hi 👋 My name is lukedev820
 ===========================
 
 *   🌍  I'm based in Australia
-*   🖥️  See my portfolio at (not ready yet)
+*   🖥️  See my portfolio at [My Website](https://luke-projects.xyz)
 *   🧠  I'm learning Python and webdev as im only starting out without a specific field in mind.
 *   ⚡  Linux FTW!
 
