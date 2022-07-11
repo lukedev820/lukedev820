@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @lukedev820.
-- 👀 I’m interested in: Learning how to program for fun and to assist me in the future.
-- 🌱 I’m currently learning: Python.
-- 📫 How to reach me: Dont.
+buymeacoffeeBuy Me a Coffee:
 
-<!---
-lukedev820/lukedev820 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi 👋 My name is lukedev820
+===========================
+
+*   🌍  I'm based in Australia
+*   🖥️  Portfolio coming soon.
+*   🧠  I'm learning Python and webdev as im only starting out without a specific field in mind.
+*   ⚡  Linux FTW!
+
+### Skills
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
+      
+### Socials
+                  
+<p align="left"> <a href="https://discord.com/users/Lukedev820#3693" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/lukedev820" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
